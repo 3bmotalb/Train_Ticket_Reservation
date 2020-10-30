@@ -1,0 +1,26 @@
+﻿1>------ Build started: Project: Train_Ticket_Reservation, Configuration: Debug Win32 ------
+1>Build started 28/08/2017 12:36:53 م.
+1>InitializeBuildStatus:
+1>  Creating "Debug\Train_Ticket_Reservation.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>GenerateTargetFrameworkMonikerAttribute:
+1>Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+1>ClCompile:
+1>  All outputs are up-to-date.
+1>  Train_Ticket_Reservation.cpp
+1>  go.cpp
+1>  Generating Code...
+1>  All outputs are up-to-date.
+1>CoreResGen:
+1>  Processing resource file "go.resx" into "Debug\Train_Ticket_Reservation.go.resources".
+1>ResourceCompile:
+1>  All outputs are up-to-date.
+1>Link:
+1>  Train_Ticket_Reservation.vcxproj -> C:\Users\Dell\Desktop\Train_Ticket_Reservation\Debug\Train_Ticket_Reservation.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\Train_Ticket_Reservation.unsuccessfulbuild".
+1>  Touching "Debug\Train_Ticket_Reservation.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:01.87
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
